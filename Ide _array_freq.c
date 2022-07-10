@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//function to find unique elements in an array
 void isUnique(int arr[],int size){
     int i = 0,j = 0;
     int dupl[size];
